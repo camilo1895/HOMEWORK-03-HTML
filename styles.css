@@ -1,0 +1,43 @@
+body {
+font-family: 'arial', sans-serif;
+background-color: #f4f4f4;
+color: #333;
+margin: 20px;
+}
+
+#header{
+ 
+    display: flex;
+    justify-content: center;
+}
+
+h1{
+    color: blue;
+}
+
+
+article:hover{
+    background-color: greenyellow;
+}
+h4{
+    font-size: 20px;
+    padding: 0 0 0 1em;
+}
+
+p{
+    font-size: 16px;
+    padding: 0 0 0 1em;
+}
+
+.imagen{
+    margin: 0 0 0 40%;
+    border-radius: 5px;
+    width: 200px;
+    height: 200px;
+}
+
+
+
+li a{
+    color: red;
+}
